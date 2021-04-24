@@ -12,5 +12,5 @@ export  function TopBar({children}) {
                 </div>
         </div>
         </div>
-    )
+    ) 
 }
