@@ -7,7 +7,7 @@ export  function TopBar({children}) {
                 <div className="svg">
                 <Swiggylogo/>
                 </div>
-                <div className="text-black font-extrabold flex justify-between w-1/2">
+                <div className="text-black font-extrabold flex justify-between items-center	">
                     {children}
                 </div>
         </div>

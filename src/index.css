@@ -2,3 +2,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+._1GTCc{
+    fill: #3d4152;
+    stroke-width: 0px;
+    stroke: #282c3f; 
+}
+
+._2MSid{
+    fill: #fff;
+    stroke-width: 2px;
+    stroke: #282c3f;
+}
